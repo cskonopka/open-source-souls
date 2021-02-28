@@ -34,3 +34,4 @@ I started by defining what the source material would be, in this case it is imag
 </p>
 
 # Video Demos
+[![oss-dogs](http://img.youtube.com/vi/xCJ2xsU9cCY/0.jpg)](http://www.youtube.com/watch?v=xCJ2xsU9cCY "open-source-souls dogs")
