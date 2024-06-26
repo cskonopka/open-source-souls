@@ -1,8 +1,9 @@
-# open-source-souls
-An instrument that allows humans to listen to the subtleties of souls that are cataloged on the internet via open-source APIs.
 <p align="center">
-  <img width="25%" height="25%" src="https://i.ibb.co/3hxG9VQ/opensourcesouls-titleimage.png"/>  
+  <img width="35%" height="35%" src="https://github.com/cskonopka/open-source-souls/blob/main/img/opensourcesouls-logo.png?raw=true"/>  
 </p>
+
+<p align="center"><em>An instrument that allows humans to listen to the subtleties of souls that are cataloged on the internet via open-source APIs.</em></p> 
+
 
 # Requirements
 * [Max8](https://cycling74.com/)
@@ -33,5 +34,18 @@ I started by defining what the source material would be, in this case it is imag
   <img width="75%" height="75%" src="https://i.ibb.co/JqcVDJy/opensourcesouls-motivicengine.png"/>  
 </p>
 
-# Video Demos
-[![oss-dogs](http://img.youtube.com/vi/xCJ2xsU9cCY/0.jpg)](http://www.youtube.com/watch?v=xCJ2xsU9cCY "open-source-souls dogs")
+# Video Demo
+
+## dogs
+
+https://github.com/cskonopka/open-source-souls/assets/7625379/11c8d3a3-d31b-4e64-a8fb-9763b171dea9
+
+## humans
+
+https://github.com/cskonopka/open-source-souls/assets/7625379/62dcfdf6-6462-403c-8191-2c381a7a179e
+
+## people
+
+https://github.com/cskonopka/open-source-souls/assets/7625379/48dfd765-f700-4485-9a14-bfe8eed0916e
+
+
